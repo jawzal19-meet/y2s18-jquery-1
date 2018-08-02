@@ -10,3 +10,6 @@ function randomY() {
 /* END PROVIDED CODE */
 
 // Write your code below this line :)
+function mover(){
+	
+}
